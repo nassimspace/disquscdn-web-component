@@ -23,10 +23,10 @@ The idea is to insert the web component ```<disqus-cdn></disqus-cdn>``` onto you
 
 The Component's attributes correspond to the following Disqus config variables ([refer to this documentation for more info](https://help.disqus.com/en/articles/1717084-javascript-configuration-variables)): 
 
-***"url"*** =  ***"this.page.url"***
-***"title"*** =  ***"this.page.title"***
-***"shortname"*** =  ***"Your Disqus Shortname"***
-***"id"*** =  ***"this.page.identifier"***
+***"url"*** =  ***"this.page.url"*** <br/>
+***"title"*** =  ***"this.page.title"*** <br/>
+***"shortname"*** =  ***"Your Disqus Shortname"*** <br/>
+***"id"*** =  ***"this.page.identifier"*** <br/>
 
 ---
 
