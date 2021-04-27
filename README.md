@@ -60,8 +60,8 @@ I don't usually include it within the component itself, I just added that in to 
 
 ### NOTE: 
 
-"**url**" and "**id**" attributes should be unique and mirrored (1 url assigned to 1 id).
-If you use an id for a url, don't reuse the same id for another url and vice-versa, or else, 
+"**url**" and "**id**" attributes should be unique and mirrored (1 *url* assigned to 1 *id*).
+If you use an *id* for a *url*, don't reuse the same *id* for another *url* and vice-versa, or else, 
 it might create [identifier conflicts](https://help.disqus.com/en/articles/1717138-why-are-the-same-comments-showing-up-on-multiple-pages).
 
 ---
